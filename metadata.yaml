@@ -1,5 +1,5 @@
 _repo: Precaution--A-Novel_10365
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   author_of_introduction:
     agent_name: Bryant, William Cullen
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '3328'
     url: http://www.gutenberg.org/2009/agents/3328
     wikipedia: http://en.wikipedia.org/wiki/William_Cullen_Bryant
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cooper, James Fenimore
@@ -27,6 +30,8 @@ description: "Precaution (1820) is the first novel written by American author Ja
   \ success. Cooper went on to have great success with works such as The Pathfinder\
   \ (1841) and The Deerslayer (1840). The American reading public responded most to\
   \ The Last of the Mohicans (1826).\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10365#Precaution--A-Novel
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
 identifiers:
